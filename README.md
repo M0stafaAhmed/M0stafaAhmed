@@ -1,53 +1,109 @@
 <div align="center">
   <img src="./assets/profile-banner.svg" alt="Mostafa Ahmed — Cybersecurity Engineer" width="100%" />
-  <h1>Mostafa Ahmed</h1>
-  <h3>Cybersecurity Engineer · Penetration Testing · Network Security</h3>
+
   <p>
-    <a href="https://mostafa-ahmed-1970f.web.app/">Portfolio</a>
-    &nbsp;·&nbsp;
-    <a href="https://www.linkedin.com/in/mostafa-ahmed-abdelrazik">LinkedIn</a>
-    &nbsp;·&nbsp;
-    <a href="https://github.com/M0stafaAhmed">GitHub</a>
+    <strong>CYBERSECURITY ENGINEERING · OFFENSIVE SECURITY · SYSTEMS & AUTOMATION</strong>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Focus-Penetration%20Testing-7c3aed?style=flat-square" alt="Focus: Penetration Testing" />
-    <img src="https://img.shields.io/badge/Location-Egypt-0891b2?style=flat-square" alt="Location: Egypt" />
-    <img src="https://img.shields.io/badge/Open%20to-Cybersecurity%20Opportunities-16a34a?style=flat-square" alt="Open to cybersecurity opportunities" />
+    I investigate systems, build practical tooling, and turn technical work into repeatable documentation.
+  </p>
+  <p>
+    <a href="https://mostafa-ahmed-1970f.web.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20website-8B5CF6?style=for-the-badge&labelColor=111827" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/mostafa-ahmed-abdelrazik"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&labelColor=111827&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/M0stafaAhmed"><img src="https://img.shields.io/badge/GITHUB-Projects-FFFFFF?style=for-the-badge&labelColor=111827&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/FOCUS-Penetration%20Testing-8B5CF6?style=flat-square&labelColor=111827" alt="Focus: Penetration Testing" />
+    <img src="https://img.shields.io/badge/BASE-Egypt-06B6D4?style=flat-square&labelColor=111827" alt="Based in Egypt" />
+    <img src="https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-22C55E?style=flat-square&labelColor=111827" alt="Open to opportunities" />
   </p>
 </div>
 
 ---
 
-## About
+## 01 / Profile
 
-I'm a cybersecurity engineer focused on penetration testing, network security, Linux and Windows environments, and practical automation.
+I'm an electrical and communications engineering graduate working toward a career in **penetration testing and cybersecurity**. My technical work spans security labs, Linux and Windows environments, network troubleshooting, scripting, and browser-based engineering tools.
 
-I work across reconnaissance, enumeration, vulnerability analysis, system administration, scripting, and technical documentation. I value repeatable workflows, evidence-based findings, and tools that make technical work easier to understand and reproduce.
+I prefer work that can be inspected and reproduced: clear scope, useful evidence, validated results, and documentation that explains both the successful path and the mistakes.
 
-Based in Egypt. Open to cybersecurity opportunities and international relocation.
+| **Technical direction** | **How I approach the work** |
+|:--|:--|
+| Offensive security, Linux administration, network security, and automation | **Scope → Enumerate → Validate → Document → Improve** |
+| Python, Bash/Zsh, PowerShell, and practical web tooling | Build small, usable tools instead of collecting disconnected notes |
 
-## Areas of Focus
+**Career direction:** Junior Penetration Tester / Cybersecurity Engineer. Open to relevant opportunities in Egypt and relocation.
 
-- **Penetration testing:** reconnaissance, service enumeration, web testing, exploitation fundamentals, and privilege escalation in authorized labs.
-- **Network security:** TCP/IP, traffic analysis, network troubleshooting, and security assessment.
-- **Systems:** Linux administration and hardening, Windows Server, and Active Directory fundamentals.
-- **Automation:** Python, Bash, and PowerShell for repeatable technical workflows.
-- **Analysis:** log inspection, troubleshooting, and technical reporting.
+## 02 / Engineering Focus
 
-## Public Projects
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⌁ Offensive Security</h3>
+      <p>Reconnaissance, service enumeration, web-testing workflows, exploitation fundamentals, privilege-escalation research, and evidence-driven lab documentation.</p>
+      <sub>Authorized labs · Reusable PoCs · Command references</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⌘ Linux & Systems</h3>
+      <p>Linux administration, permissions, services, networking, logs, troubleshooting, shell engineering, and Windows Server fundamentals.</p>
+      <sub>Kali Linux · Zsh · Bash · Vim · Windows Server</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙ Automation & Tooling</h3>
+      <p>Python utilities, shell scripts, PowerShell workflows, log analysis, and small tools that reduce repetitive technical work.</p>
+      <sub>Python · Bash · PowerShell · JavaScript</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>▤ Technical Learning Systems</h3>
+      <p>Structured study references, interactive quizzes, searchable command catalogs, and documentation designed for practical use.</p>
+      <sub>Static web apps · Markdown · Obsidian · Firebase Hosting</sub>
+    </td>
+  </tr>
+</table>
 
-| Project | Description | Technologies |
-|---|---|---|
-| [Linux Administration References](https://github.com/M0stafaAhmed/Docs) | A collection of practical Linux references, including a Vim command reference and an interactive sudoers rule explorer. | HTML, CSS, JavaScript |
-| [ISTQB Foundation Level Roadmap](https://github.com/M0stafaAhmed/ISTQB-Roadmap) | A structured study roadmap with browser-based chapter practice and a final exam. | HTML, CSS, JavaScript |
+## 03 / Selected Public Work
 
-More engineering and security projects are being prepared for public release after documentation, validation, and repository cleanup.
+<table>
+  <tr>
+    <td width="34%" valign="top">
+      <strong><a href="https://mostafa-ahmed-1970f.web.app/">Personal Portfolio</a></strong>
+      <p>Professional profile, experience, technical focus, and selected engineering work.</p>
+      <sub>HTML · CSS · JavaScript</sub>
+    </td>
+    <td width="33%" valign="top">
+      <strong><a href="https://github.com/M0stafaAhmed/Docs">Linux & Systems References</a></strong>
+      <p>Browser-based Vim cheat sheet and an interactive sudoers rule explorer.</p>
+      <sub>HTML · CSS · JavaScript</sub>
+    </td>
+    <td width="33%" valign="top">
+      <strong><a href="https://github.com/M0stafaAhmed/ISTQB-Roadmap">ISTQB Study Roadmap</a></strong>
+      <p>Foundation Level study guide, 80 chapter-practice questions, and a separate 100-question final practice exam.</p>
+      <sub>HTML · CSS · JavaScript</sub>
+    </td>
+  </tr>
+</table>
 
-## Tools & Technologies
+## 04 / Private Engineering Workbench
 
-<div align="center">
+A selection of projects currently maintained in private repositories. They are kept separate from the public portfolio while their content and documentation continue to evolve.
+
+| Project | What it contains |
+|:--|:--|
+| **PwnRef** | A browser-based penetration-testing reference with 34 sections and 141 searchable command cards. |
+| **CEH Study Reference** | An independent study tracker organized into 11 modules and 54 topics, with browser-local progress and backup/export. |
+| **Zsh Mastery Academy** | A seven-level interactive learning platform covering shell fundamentals through advanced Zsh and automation, with quizzes and local progress tracking. |
+| **Linux Administration Reference** | A task-oriented Linux reference covering administration, troubleshooting, networking, storage, services, and security-testing specializations. |
+| **Vim Cheat Sheet** | A consolidated browser reference for navigation, editing, registers, buffers, windows, search, substitution, and macros. |
+| **Lab PoC Knowledge Base** | Private machine-level lab records and reusable proof-of-concept notes, with an emphasis on commands, evidence, validation status, and lessons learned. |
+
+## 05 / Technology & Tools
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Zsh-1A2C34?style=for-the-badge&logo=zsh&logoColor=white" alt="Zsh" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111827" alt="Linux" />
   <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
@@ -56,9 +112,10 @@ More engineering and security projects are being prepared for public release aft
   <img src="https://img.shields.io/badge/Burp%20Suite-F36C21?style=for-the-badge" alt="Burp Suite" />
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge" alt="Metasploit" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
+</p>
 
-## GitHub Activity
+## 06 / GitHub Activity
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=M0stafaAhmed&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
@@ -68,5 +125,7 @@ More engineering and security projects are being prepared for public release aft
 ---
 
 <div align="center">
-  <sub>Build with intent. Test with evidence. Document what matters.</sub>
+  <sub><strong>BUILD WITH INTENT · TEST WITH EVIDENCE · DOCUMENT WHAT MATTERS</strong></sub>
+  <br />
+  <sub>Based in Egypt · Open to cybersecurity opportunities</sub>
 </div>
