@@ -115,11 +115,13 @@ A selection of projects currently maintained in private repositories. They are k
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
 </p>
 
-## 06 / GitHub Activity
+## 06 / Explore the GitHub Profile
+
+The live profile is the source of truth for repository activity, pinned projects, and contribution history.
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=M0stafaAhmed&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0stafaAhmed&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+  <a href="https://github.com/M0stafaAhmed"><img src="https://img.shields.io/badge/GITHUB-View%20all%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all GitHub repositories" /></a>
+  <a href="https://github.com/M0stafaAhmed?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Browse%20repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Browse repositories" /></a>
 </div>
 
 ---
