@@ -162,3 +162,13 @@ I prefer work that can be inspected and reproduced: clear scope, useful evidence
   <br />
   <sub>Based in Egypt · Open to cybersecurity opportunities</sub>
 </div>
+
+## License and permissions
+
+This repository is **proprietary; all rights reserved**. You may view it where access is granted. For a public repository, GitHub's Terms of Service permit users to view and fork it on GitHub. Those platform permissions do not grant a general right to reuse, modify, redistribute, sublicense, or commercially exploit the original material outside GitHub.
+
+Obtain prior, express, written permission from the copyright holder before any such use beyond the rights GitHub grants. Sending a request is not approval; wait for written authorization. See [LICENSE](./LICENSE) for the full scope, exclusions, permission-request route, and treatment of earlier license grants.
+
+**Third-party material:** This notice covers only original material that the repository owner owns or is authorized to license. Third-party software, images, fonts, trademarks, curricula, standards, datasets, contributions, and other external content remain subject to their respective rights and terms. This repository does not relicense them.
+
+This notice covers only original profile text and artwork that the repository owner owns. Linked projects, external brands, and third-party assets are not relicensed.
