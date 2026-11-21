@@ -3,7 +3,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-banner.svg" />
-    <img src="./assets/profile-banner-animated.svg" width="100%" alt="Mostafa Ahmed — Penetration Testing, Web and API Security, Systems and Automation" />
+    <img src="./assets/profile-banner-breathing.svg" width="100%" alt="Mostafa Ahmed — Penetration Testing, Web and API Security, Systems and Automation" />
   </picture>
 
   <h3>Penetration Testing · Web &amp; API Security · Systems &amp; Automation</h3>
