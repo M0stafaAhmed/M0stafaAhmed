@@ -6,7 +6,7 @@
     <img src="./assets/profile-banner-animated.svg" width="100%" alt="Mostafa Ahmed — Penetration Testing, Web and API Security, Systems and Automation" />
   </picture>
 
-  <h3>Penetration Testing · Web &amp; API Security · Systems &amp; Automation</h3>
+  <p><strong>Penetration Testing · Web &amp; API Security · Systems &amp; Automation</strong></p>
   <p>I investigate how systems behave, validate security weaknesses, and build tools that make technical work reproducible.</p>
 
   <p>
@@ -23,7 +23,7 @@
 
 ---
 
-## 01 / About
+<p><strong>ABOUT</strong></p>
 
 I'm a cybersecurity practitioner and Electronics & Communications Engineer with **professional penetration-testing experience** and a background in **enterprise technical solutions**. My work combines authorized security assessment, HTTP/API troubleshooting, Linux and Windows systems, and practical automation.
 
@@ -31,12 +31,14 @@ I focus on the step between *finding something interesting* and *proving it matt
 
 > **Security without evidence is a hypothesis. Engineering turns it into something testable.**
 
-## 02 / Featured security work
+---
+
+<p><strong>FEATURED SECURITY WORK</strong></p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/M0stafaAhmed/0xFieldbook">0xFieldbook — Offensive Security Fieldbook</a></h3>
+      <p><strong><a href="https://github.com/M0stafaAhmed/0xFieldbook">0xFieldbook — Offensive Security Fieldbook</a></strong></p>
       <p>An Astro-powered, sanitized collection of authorized training walkthroughs, attack-path explanations, methodologies, and reusable technical notes.</p>
       <ul>
         <li>Static pages generated from structured Markdown with Pagefind search.</li>
@@ -46,7 +48,7 @@ I focus on the step between *finding something interesting* and *proving it matt
       <p><sub>Astro · TypeScript · Markdown · Pagefind · Security Documentation</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/M0stafaAhmed/PAWN-Commands-sheet-cheat">PwnRef — Pentesting Command Reference</a></h3>
+      <p><strong><a href="https://github.com/M0stafaAhmed/PAWN-Commands-sheet-cheat">PwnRef — Pentesting Command Reference</a></strong></p>
       <p>A fast browser-based reference for penetration-testing commands and practical workflows.</p>
       <ul>
         <li>34 categories and 141 command cards.</li>
@@ -58,12 +60,14 @@ I focus on the step between *finding something interesting* and *proving it matt
   </tr>
 </table>
 
-## 03 / Engineering projects
+---
+
+<p><strong>ENGINEERING PROJECTS</strong></p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/M0stafaAhmed/LogSpire">LogSpire — Desktop Log Analyzer</a></h3>
+      <p><strong><a href="https://github.com/M0stafaAhmed/LogSpire">LogSpire — Desktop Log Analyzer</a></strong></p>
       <p>A Windows desktop application for reviewing dated application logs, extracting error events with surrounding context, filtering findings, and investigating full log files through a searchable viewer.</p>
       <ul>
         <li>PyQt5 interface with an integrated English/Arabic on-screen keyboard.</li>
@@ -75,7 +79,7 @@ I focus on the step between *finding something interesting* and *proving it matt
       <a href="https://github.com/M0stafaAhmed/LogSpire/actions/workflows/windows-build.yml"><img src="https://img.shields.io/github/actions/workflow/status/M0stafaAhmed/LogSpire/windows-build.yml?branch=main&label=Windows%20build&logo=githubactions&logoColor=white" alt="LogSpire Windows build status" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/M0stafaAhmed/PDF-Image-Extractor">PDF Image Extractor</a></h3>
+      <p><strong><a href="https://github.com/M0stafaAhmed/PDF-Image-Extractor">PDF Image Extractor</a></strong></p>
       <p>A Windows desktop utility for extracting original embedded image data from PDF documents.</p>
       <ul>
         <li>PyMuPDF extraction, not page screenshots.</li>
@@ -88,19 +92,21 @@ I focus on the step between *finding something interesting* and *proving it matt
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/M0stafaAhmed/zsh-academy_final">Zsh Mastery Academy</a></h3>
+      <p><strong><a href="https://github.com/M0stafaAhmed/zsh-academy_final">Zsh Mastery Academy</a></strong></p>
       <p>An interactive seven-level learning platform spanning CLI fundamentals, scripting, Zsh engineering, and pentesting automation.</p>
       <p><sub>Zsh · JavaScript · Interactive Education</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/M0stafaAhmed/Linux-from-Basics-Professional-">Linux Administration Reference</a></h3>
+      <p><strong><a href="https://github.com/M0stafaAhmed/Linux-from-Basics-Professional-">Linux Administration Reference</a></strong></p>
       <p>A task-oriented reference for permissions, processes, services, networking, storage, troubleshooting, and secure administration.</p>
       <p><sub>Linux · System Administration · Technical Documentation</sub></p>
     </td>
   </tr>
 </table>
 
-## 04 / Technical focus
+---
+
+<p><strong>TECHNICAL FOCUS</strong></p>
 
 **Security assessment**
 
@@ -136,7 +142,9 @@ I focus on the step between *finding something interesting* and *proving it matt
 
 <sub>Tools and techniques are drawn from professional experience, project code, and authorized training—not a claim of equal mastery or vendor certification.</sub>
 
-## 05 / Professional background
+---
+
+<p><strong>PROFESSIONAL BACKGROUND</strong></p>
 
 - **Penetration Tester (Part-Time) · Orchida-Tax · May–Oct 2026** — authorized assessment activities, controlled vulnerability validation, technical findings, and remediation-oriented reporting.
 - **Technical Solution Engineer · Orchida-Tax · Sep 2024–Oct 2026** — enterprise applications, e-invoicing/REST integrations, HTTP/JSON troubleshooting, Windows services, and functional testing.
@@ -144,7 +152,9 @@ I focus on the step between *finding something interesting* and *proving it matt
 
 **Education:** B.Eng. in Electronics & Communications Engineering (2023).
 
-## 06 / How I approach security work
+---
+
+<p><strong>HOW I APPROACH SECURITY WORK</strong></p>
 
 <div align="center">
 
@@ -156,7 +166,9 @@ I focus on the step between *finding something interesting* and *proving it matt
 
 I document failed hypotheses and prerequisites along with successful reproduction steps, because a useful report must be verifiable by someone other than its author.
 
-## 07 / Connect
+---
+
+<p><strong>CONNECT</strong></p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mostafa-ahmed-abdelrazik"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
@@ -165,7 +177,9 @@ I document failed hypotheses and prerequisites along with successful reproductio
 
 <p align="center"><strong>BUILD WITH INTENT · TEST WITH EVIDENCE · DOCUMENT WHAT MATTERS</strong></p>
 
-## 08 / GitHub analytics
+---
+
+<p><strong>GITHUB ANALYTICS</strong></p>
 
 <div align="center">
 
