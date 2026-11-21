@@ -1,11 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
   <title id="title">Mostafa Ahmed — Signal / Evidence</title>
-  <desc id="desc">Dark navy cybersecurity portfolio banner with violet and cyan signals on the right; the name Mostafa Ahmed and penetration testing specialties on the left. The name reveals quickly on load, then gently fades, pulses, and moves back and forth; the two specialties alternate and subtle network pulses move.</desc>
+  <desc id="desc">Dark navy cybersecurity portfolio banner with violet and cyan signals on the right; the name Mostafa Ahmed and penetration testing specialties on the left. The name reveals once quickly, then stays in position as the light and glow smoothly pulse from full to half brightness and back; the specialties and network signals animate separately.</desc>
   <style>
     @media (prefers-reduced-motion: reduce) {
       .secondary-line { opacity: 0 !important; }
       .primary-line { opacity: 1 !important; }
       .motion { display: none !important; }
+      [filter="url(#nameGlow)"] { opacity: 0 !important; }
     }
   </style>
   <defs>
@@ -26,6 +27,9 @@
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
       <path d="M40 0H0V40" fill="none" stroke="#94A3B8" stroke-opacity=".10" stroke-width="1"/>
     </pattern>
+    <filter id="nameGlow" x="-30%" y="-80%" width="160%" height="260%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
     <clipPath id="nameReveal">
       <rect x="65" y="90" width="636" height="85"><animate class="motion" attributeName="width" values="0;636;636" keyTimes="0;0.75;1" dur="2.3s" repeatCount="1" fill="freeze"/></rect>
     </clipPath>
@@ -71,24 +75,17 @@
     <text x="72" y="58" font-size="14" font-weight="600" letter-spacing="3" fill="#A5B4FC">SIGNAL / EVIDENCE</text>
     <text x="1180" y="28" text-anchor="end" font-size="10" letter-spacing="1.8" fill="#9CA3AF">SECURITY ENGINEERING / 01</text>
     <g clip-path="url(#nameReveal)">
-      <g>
-        <text x="69" y="160" font-size="61" font-weight="700" letter-spacing="-2" fill="#F8FAFC">MOSTAFA AHMED</text>
-        <!-- After the quick initial reveal: a slow readable pulse, never disappearing completely. -->
-        <animate class="motion" attributeName="opacity"
-                 begin="2.3s" dur="6.8s" repeatCount="indefinite"
-                 values="1;0.72;1;0.80;1"
-                 keyTimes="0;0.25;0.5;0.75;1"
-                 calcMode="spline"
-                 keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
-        <animateTransform class="motion" attributeName="transform" type="translate"
-                          begin="2.3s" dur="8.2s" repeatCount="indefinite"
-                          values="0 0;3 0;0 0;-3 0;0 0"
-                          keyTimes="0;0.25;0.5;0.75;1"
-                          calcMode="spline"
-                          keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
-      </g>
+      <!-- One quick reveal; afterward stationary brightness + glow pulse only. -->
+      <text x="69" y="160" font-size="61" font-weight="700" letter-spacing="-2" fill="#8DEDFB"
+            filter="url(#nameGlow)" opacity=".42">MOSTAFA AHMED<animate class="motion" attributeName="opacity"
+                 begin="2.3s" dur="6.4s" values=".42;.07;.42"
+                 keyTimes="0;.5;1" repeatCount="indefinite"/></text>
+      <text x="69" y="160" font-size="61" font-weight="700" letter-spacing="-2"
+            fill="#F8FAFC">MOSTAFA AHMED<animate class="motion" attributeName="opacity"
+                 begin="2.3s" dur="6.4s" values="1;.5;1"
+                 keyTimes="0;.5;1" repeatCount="indefinite"/></text>
     </g>
-    <rect x="73" y="182" width="78" height="4" rx="2" fill="url(#signal)">
+        <rect x="73" y="182" width="78" height="4" rx="2" fill="url(#signal)">
     <animate class="motion" attributeName="width" values="78;147;78" dur="5.5s" repeatCount="indefinite"/>
     </rect>
     <text class="primary-line" x="73" y="224" font-size="18" letter-spacing=".7" font-weight="600" fill="#67E8F9">PENETRATION TESTING / WEB &amp; API SECURITY<animate class="motion" attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.23;0.30;0.77;1" dur="13s" repeatCount="indefinite"/></text>
