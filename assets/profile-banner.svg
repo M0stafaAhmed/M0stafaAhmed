@@ -1,43 +1,65 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
-  <title id="title">Mostafa Ahmed — Cybersecurity Engineer</title>
-  <desc id="desc">A dark technical banner with a violet and cyan network motif.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Mostafa Ahmed — Signal / Evidence</title>
+  <desc id="desc">Dark navy cybersecurity portfolio banner with violet and cyan signals on the right; the name Mostafa Ahmed and penetration testing specialties on the left. This version is static and readable without motion.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#080d1b"/>
-      <stop offset=".55" stop-color="#111a32"/>
-      <stop offset="1" stop-color="#10102a"/>
+      <stop offset="0" stop-color="#070B16"/>
+      <stop offset=".58" stop-color="#101A2E"/>
+      <stop offset="1" stop-color="#171028"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#8b5cf6"/>
-      <stop offset="1" stop-color="#22d3ee"/>
+    <linearGradient id="signal" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#8B5CF6"/>
+      <stop offset=".65" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#A5F3FC"/>
     </linearGradient>
     <radialGradient id="glow">
-      <stop offset="0" stop-color="#7c3aed" stop-opacity=".35"/>
-      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+      <stop offset="0" stop-color="#22D3EE" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
     </radialGradient>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
-      <path d="M36 0H0V36" fill="none" stroke="#94a3b8" stroke-opacity=".09" stroke-width="1"/>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#94A3B8" stroke-opacity=".10" stroke-width="1"/>
     </pattern>
+    <clipPath id="nameReveal">
+      <rect x="65" y="90" width="636" height="85"></rect>
+    </clipPath>
   </defs>
-  <rect width="1200" height="280" rx="24" fill="url(#bg)"/>
-  <rect width="1200" height="280" rx="24" fill="url(#grid)"/>
-  <ellipse cx="1030" cy="70" rx="310" ry="210" fill="url(#glow)"/>
-  <g fill="none" stroke="url(#accent)" stroke-opacity=".62" stroke-width="1.6">
-    <path d="M820 0L930 70L1035 40L1145 110L1200 82"/>
-    <path d="M840 280L940 205L1040 232L1130 155L1200 180"/>
-    <path d="M945 70L945 205M1035 40L1040 232M1145 110L1130 155"/>
-    <path d="M850 140L945 70L1035 40M850 140L940 205L1040 232"/>
+
+  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
+  <ellipse cx="1020" cy="140" rx="345" ry="246" fill="url(#glow)"/>
+  <rect x="0" y="0" width="10" height="320" fill="url(#signal)"/>
+
+  <g fill="none" stroke="url(#signal)" stroke-width="1.6" stroke-opacity=".52">
+    <path d="M795 46L870 105L970 55L1070 110L1170 69L1200 95"/>
+    <path d="M790 264L881 213L974 257L1066 195L1175 244L1200 221"/>
+    <path d="M870 105L881 213M970 55L974 257M1070 110L1066 195M1170 69L1175 244"/>
+    <path d="M755 170L870 105L970 55M755 170L881 213L974 257"/>
   </g>
-  <g fill="#22d3ee">
-    <circle cx="930" cy="70" r="4"/><circle cx="1035" cy="40" r="4"/>
-    <circle cx="1145" cy="110" r="4"/><circle cx="940" cy="205" r="4"/>
-    <circle cx="1040" cy="232" r="4"/><circle cx="1130" cy="155" r="4"/>
+  <g fill="#67E8F9">
+    <circle cx="795" cy="46" r="3.2"/><circle cx="870" cy="105" r="4.3"/><circle cx="970" cy="55" r="4.8"/>
+    <circle cx="1070" cy="110" r="3.5"/><circle cx="1170" cy="69" r="4.3"/>
+  </g>
+  <g fill="#A78BFA">
+    <circle cx="790" cy="264" r="3.2"/><circle cx="881" cy="213" r="4.5"/><circle cx="974" cy="257" r="4.8"/>
+    <circle cx="1066" cy="195" r="4.7"/><circle cx="1175" cy="244" r="3.5"/>
   </g>
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
-    <text x="78" y="75" fill="#a5b4fc" font-size="15" letter-spacing="4">PORTFOLIO / 01</text>
-    <text x="74" y="151" fill="#f8fafc" font-size="62" font-weight="700" letter-spacing="-2">MOSTAFA AHMED</text>
-    <rect x="78" y="177" width="72" height="4" rx="2" fill="url(#accent)"/>
-    <text x="78" y="220" fill="#cbd5e1" font-size="20" letter-spacing="1.5">CYBERSECURITY  ·  PENETRATION TESTING  ·  NETWORK SECURITY</text>
-    <text x="78" y="252" fill="#64748b" font-size="12" letter-spacing="2">BUILD / TEST / DOCUMENT / IMPROVE</text>
+    <text x="72" y="58" font-size="14" font-weight="600" letter-spacing="3" fill="#A5B4FC">SIGNAL / EVIDENCE</text>
+    <text x="1180" y="28" text-anchor="end" font-size="10" letter-spacing="1.8" fill="#9CA3AF">SECURITY ENGINEERING / 01</text>
+    <g clip-path="url(#nameReveal)">
+      <text x="69" y="160" font-size="61" font-weight="700" letter-spacing="-2" fill="#F8FAFC">MOSTAFA AHMED</text>
+    </g>
+    <rect x="73" y="182" width="78" height="4" rx="2" fill="url(#signal)">
+
+    </rect>
+    <text class="primary-line" x="73" y="224" font-size="18" letter-spacing=".7" font-weight="600" fill="#67E8F9">PENETRATION TESTING / WEB &amp; API SECURITY</text>
+    <text class="secondary-line" x="73" y="224" font-size="18" letter-spacing=".7" font-weight="600" fill="#C4B5FD" opacity="0">SYSTEMS / AUTOMATION / EVIDENCE-FIRST</text>
+    <text x="96" y="268" font-size="13" letter-spacing="1.5" fill="#BAC9DF">BUILD WITH INTENT. TEST WITH EVIDENCE.</text>
+    <rect x="73" y="256" width="12" height="15" fill="#10B981" opacity="1">
+
+    </rect>
   </g>
+  <path d="M72 290H1190" stroke="#334155" stroke-width="1" opacity=".7"/>
+  <text x="74" y="306" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.5" fill="#8997AF">AUTHORIZED SECURITY RESEARCH</text>
+  <text x="1180" y="306" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.5" fill="#8997AF">M0STAFA / GITHUB</text>
 </svg>
