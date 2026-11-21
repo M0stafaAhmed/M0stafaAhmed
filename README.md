@@ -165,6 +165,25 @@ I document failed hypotheses and prerequisites along with successful reproductio
 
 <p align="center"><strong>BUILD WITH INTENT · TEST WITH EVIDENCE · DOCUMENT WHAT MATTERS</strong></p>
 
+## 08 / GitHub analytics
+
+<div align="center">
+
+<a href="https://github.com/M0stafaAhmed?tab=overview">
+  <img src="https://github-readme-stats.vercel.app/api?username=M0stafaAhmed&amp;show_icons=true&amp;hide_rank=true&amp;theme=transparent&amp;bg_color=0B1020&amp;title_color=67E8F9&amp;text_color=CBD5E1&amp;icon_color=A78BFA&amp;border_color=26354E&amp;hide_border=false&amp;border_radius=12" alt="Live GitHub overview statistics for Mostafa Ahmed" height="165" />
+</a>
+<a href="https://github.com/M0stafaAhmed?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0stafaAhmed&amp;layout=compact&amp;langs_count=6&amp;theme=transparent&amp;bg_color=0B1020&amp;title_color=67E8F9&amp;text_color=CBD5E1&amp;border_color=26354E&amp;hide_border=false&amp;border_radius=12" alt="GitHub repository language distribution for Mostafa Ahmed" height="165" />
+</a>
+
+<a href="https://github.com/M0stafaAhmed?tab=contributions">
+  <img src="https://streak-stats.demolab.com/?user=M0stafaAhmed&amp;theme=dark&amp;background=0B1020&amp;border=26354E&amp;ring=8B5CF6&amp;fire=22D3EE&amp;currStreakLabel=67E8F9&amp;sideLabels=CBD5E1&amp;dates=94A3B8&amp;stroke=26354E&amp;hide_border=false" alt="GitHub contribution streak statistics for Mostafa Ahmed" width="76%" />
+</a>
+
+<p><sub>Dynamic cards use public GitHub information and third-party services; figures can be cached or incomplete. Repository language distribution is not a measure of professional proficiency.</sub></p>
+
+</div>
+
 ---
 
 <details>
